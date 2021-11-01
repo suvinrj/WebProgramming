@@ -8,7 +8,7 @@ Pada Chapter ini kita akan melakukan instalasi [create_react_app (CRA)] pada lap
 
 ## Langkah-langkah Pengumpulan Latihan
 
-- Fork project github ini. Ada terdapat 3 branch yaitu: master, exercise5
+- Fork project github ini. Ada terdapat 2 branch yaitu: master, exercise5
 - Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama anda, dengan format camelCase. contoh: johnDoe
 - Buat project CRA baru dengan nama my-first-app
 - git add dan commit dengan commit message "adding my first CRA Project", lakukan push ke repository anda.
